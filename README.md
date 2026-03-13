@@ -243,6 +243,9 @@ The pipeline needs to be bidirectional — streaming tokens from the server *and
 This is a single-session, start-to-finish local tool. The full pipeline runs in one sitting. In-memory context is simpler, faster, and has no setup overhead. A database would only be needed for multi-user or persistent session history.
 
 ---
+<img width="1470" height="833" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/f5d7451e-408f-4e22-9996-fc24ef8f4568" />
+
+<img width="1456" height="806" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/431f142e-8b6e-4c87-9498-368340413ae5" />
 
 ## License
 
